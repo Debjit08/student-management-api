@@ -1,0 +1,5 @@
+
+Flask
+Flask-RESTX
+mysql-connector-python
+python-dotenv
