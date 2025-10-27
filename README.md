@@ -16,7 +16,7 @@
 
 3. Set up MySQL database and run the SQL script:
    ```bash
-   mysql -u root -p < schema.sql
+   cmd /c "mysql -u root -p < schema.sql"
    ```
 
 4. Run the application:
